@@ -76,5 +76,5 @@ python simulator.py
 To test a fault scenario:
 
 ```bash
-python simulator.py --fault thermal
+python simulator.py --fault [Fault_Type]
 ```

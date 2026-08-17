@@ -12,6 +12,14 @@ It uses an Isolation Forest model for anomaly detection and a rule-based system 
 * Real-time monitoring dashboard
 * Interactive 3D CubeSat visualization
 
+## Tech Stack
+
+* **Frontend:** React, Vite, Three.js
+* **Backend:** Python, FastAPI
+* **Machine Learning:** scikit-learn, Isolation Forest
+* **Data Processing:** NumPy
+* **Model Handling:** Joblib
+
 ## Machine Learning
 
 An **Isolation Forest** model is used to detect anomalies in CubeSat telemetry.
